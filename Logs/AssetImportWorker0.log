@@ -1,0 +1,188 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'en' Physical Memory: 16239 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/unLa4ky/Documents/GitHub/Unity Multiplayer Demo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56042
+Successfully changed project path to: C:/Users/unLa4ky/Documents/GitHub/Unity Multiplayer Demo
+C:/Users/unLa4ky/Documents/GitHub/Unity Multiplayer Demo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 160.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/unLa4ky/Documents/GitHub/Unity Multiplayer Demo/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     8119 MB
+    Driver:   23.20.16.4973
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005255 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 161.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.273 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.488 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2781 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3229.
+Total: 3.925500 ms (FindLiveObjects: 0.300800 ms CreateObjectMapping: 0.228000 ms MarkObjects: 3.178400 ms  DeleteObjects: 0.216400 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.multiplayer.mlapi/Tests/Editor
+  artifactKey: Guid(d656bc8bb2502584ab6883d254d64782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/Tests/Editor using Guid(d656bc8bb2502584ab6883d254d64782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497a5f2e3fd0836a84f9bcfd388b213d') in 0.007345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Packages/com.unity.multiplayer.mlapi/Tests
+  artifactKey: Guid(e5a2c06211b0c224c94202c2cda733fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/Tests using Guid(e5a2c06211b0c224c94202c2cda733fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6639db47105116ce0412230adca2639') in 0.003036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Packages/com.unity.multiplayer.mlapi/Tests/Editor/com.unity.multiplayer.mlapi.editortests.asmdef
+  artifactKey: Guid(072b82e2b7c1dcf439827d3fbc4f52a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/Tests/Editor/com.unity.multiplayer.mlapi.editortests.asmdef using Guid(072b82e2b7c1dcf439827d3fbc4f52a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b30d43310c9634146b73e0b573e8c9') in 0.053830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Packages/com.unity.multiplayer.mlapi
+  artifactKey: Guid(04bae4834f48a77485aeaf18c3486602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi using Guid(04bae4834f48a77485aeaf18c3486602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ebbee56b038d6ac42171c24f5d5869') in 0.002989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Packages/com.unity.multiplayer.mlapi/package.json
+  artifactKey: Guid(1d54835385782194a91c301198674dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/package.json using Guid(1d54835385782194a91c301198674dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5711291862e92b2c3a3bdf1c1e0909') in 0.024914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Packages/com.unity.multiplayer.mlapi/Tests/Runtime
+  artifactKey: Guid(9d3a545f9ce7b074c95a3b1c3101dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/Tests/Runtime using Guid(9d3a545f9ce7b074c95a3b1c3101dee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f59346f5d9eca23bee1464a13f334b') in 0.004265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Packages/com.unity.multiplayer.mlapi/Tests/Runtime/com.unity.multiplayer.mlapi.runtimetests.asmdef
+  artifactKey: Guid(0d0243c226d5dab4fb5d34006a1ad53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.mlapi/Tests/Runtime/com.unity.multiplayer.mlapi.runtimetests.asmdef using Guid(0d0243c226d5dab4fb5d34006a1ad53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd54efc2cab402816b74820f8d8dc5e8') in 0.003065 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.0 MB.
+System memory in use after: 47.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3229.
+Total: 6.872400 ms (FindLiveObjects: 0.390400 ms CreateObjectMapping: 0.695700 ms MarkObjects: 5.701600 ms  DeleteObjects: 0.081600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.986 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2776 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.0 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3232.
+Total: 3.150900 ms (FindLiveObjects: 0.373800 ms CreateObjectMapping: 0.204500 ms MarkObjects: 2.479400 ms  DeleteObjects: 0.090900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1370.262013 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7b7e7f70234a2a302ec975272bd2f42f') in 1.090925 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.537 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.5 MB.
+System memory in use after: 99.7 MB.
+
+Unloading 101 unused Assets to reduce memory usage. Loaded Objects now: 3144.
+Total: 11.519900 ms (FindLiveObjects: 5.118100 ms CreateObjectMapping: 0.467600 ms MarkObjects: 5.777400 ms  DeleteObjects: 0.152800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010263 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2776 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.1 MB.
+System memory in use after: 102.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3238.
+Total: 3.170700 ms (FindLiveObjects: 0.481100 ms CreateObjectMapping: 0.254300 ms MarkObjects: 2.360000 ms  DeleteObjects: 0.073300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
